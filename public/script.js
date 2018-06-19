@@ -1,7 +1,7 @@
 
 
 $.ajax({
-    url: "http://localhost:3007/equipe",
+    url: "http://localhost:3013/test",
     methode: 'get',
     success: function (data) {
         console.log(data)
